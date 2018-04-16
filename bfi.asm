@@ -18,8 +18,7 @@ READ,       JMS LISN
             TAD KMRETURN
             SNA
             JMP PARSE
-            TAD I BFPTR
-            JMS TYPE
+            CLA CLL
             ISZ BFPTR
             JMP READ
 /GET CHAR FROM INPUT, VALUE IS LEFT IN AC
