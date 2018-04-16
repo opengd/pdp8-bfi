@@ -1,2 +1,2 @@
-# pdp8-bf
+# pdp8-bfi
 brainfuck interpreter for PDP-8
